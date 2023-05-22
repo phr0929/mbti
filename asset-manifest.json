@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/mbti/static/css/main.d3fc476d.css",
+    "main.js": "/mbti/static/js/main.d6cd2380.js",
+    "static/js/787.d9645f72.chunk.js": "/mbti/static/js/787.d9645f72.chunk.js",
+    "static/media/myLogo.png": "/mbti/static/media/myLogo.1a58deaf36a19de96920.png",
+    "static/media/enfj.svg": "/mbti/static/media/enfj.b662497a0dadef45a1795240f017c966.svg",
+    "static/media/esfj.svg": "/mbti/static/media/esfj.3c3fc1d3db943089f036d21677fd0b06.svg",
+    "static/media/isfj.svg": "/mbti/static/media/isfj.b92f1ce91317c6392777a458b956d590.svg",
+    "static/media/intp.svg": "/mbti/static/media/intp.dee49201038b48a074e657e709044563.svg",
+    "static/media/intj.svg": "/mbti/static/media/intj.d4251ea3175a07f5876f3d9139638b63.svg",
+    "static/media/estp.svg": "/mbti/static/media/estp.41ec83583e7ac1b9cc0b379160256a88.svg",
+    "static/media/entj.svg": "/mbti/static/media/entj.0310bc7b05536cc21e104dff288d3ad9.svg",
+    "static/media/istp.svg": "/mbti/static/media/istp.8e6f0fa810717a815597ffa4abd5720d.svg",
+    "static/media/esfp.svg": "/mbti/static/media/esfp.63808ba2909a869efa777d6d10bbe2d3.svg",
+    "static/media/entp.svg": "/mbti/static/media/entp.40efe4bb2ad408ad7c5368faea03e2c7.svg",
+    "static/media/isfp.svg": "/mbti/static/media/isfp.91d8c11310f3fe1581df73b6b533122d.svg",
+    "static/media/istj.svg": "/mbti/static/media/istj.c20f039532f21910459053b4a025d904.svg",
+    "static/media/infp.svg": "/mbti/static/media/infp.865ecd78560479fbd66270024601ff3b.svg",
+    "static/media/enfp.svg": "/mbti/static/media/enfp.87e33a03c5cf03d415625589fb64c35a.svg",
+    "static/media/estj.svg": "/mbti/static/media/estj.344f8c8a742e17ac810f98bf738290e3.svg",
+    "static/media/icKakao.svg": "/mbti/static/media/icKakao.867a3450bd9614c1268efa3768727de7.svg",
+    "static/media/infj.svg": "/mbti/static/media/infj.1fb79e04c2de23bcbe176673dd7e4b24.svg",
+    "static/media/icLink.svg": "/mbti/static/media/icLink.e14308a3fa8f1c061cb224b7ce442485.svg",
+    "index.html": "/mbti/index.html",
+    "main.d3fc476d.css.map": "/mbti/static/css/main.d3fc476d.css.map",
+    "main.d6cd2380.js.map": "/mbti/static/js/main.d6cd2380.js.map",
+    "787.d9645f72.chunk.js.map": "/mbti/static/js/787.d9645f72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3fc476d.css",
+    "static/js/main.d6cd2380.js"
+  ]
+}
